@@ -1,0 +1,34 @@
+body {
+    background-color:lightblue;
+}
+table {
+    background: white;
+    border: 1px black;
+    margin-left:auto;
+    margin-right:auto;
+}
+td{
+    width: 100px;
+    height: 50px;
+    font-size: 30px;
+    margin: 5px;
+}
+button{
+    width: 100%;
+    height: 100%;
+    font-size: 20px;
+}
+input[type="text"]#display{
+    width: 100%;
+    height: 50px;
+    font-size: 30px;
+    text-align: right;
+}
+button.clear{
+    background-color: darkred;
+    color: white;   
+}
+button.operation{
+    background-color: black;
+    color:white;
+}
